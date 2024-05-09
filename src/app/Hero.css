@@ -1,0 +1,10 @@
+/* heroStyles.css */
+
+.rounded-custom {
+    border-radius: 118px 50px;
+  }
+  
+  .shadow-custom {
+    box-shadow: 3px 2px 10px 0px #acacac;
+  }
+  
